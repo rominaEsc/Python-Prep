@@ -1,3 +1,4 @@
+# prueba para conf git - ingnorar esta línea
 mi_variable = 12
 print(mi_variable)
 
